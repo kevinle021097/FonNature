@@ -1,0 +1,13 @@
+D:\QuanLySonMoi\FonNature\FonNature\bin\Release\FonNature.exe.config
+D:\QuanLySonMoi\FonNature\FonNature\bin\Release\FonNature.exe
+D:\QuanLySonMoi\FonNature\FonNature\bin\Release\FonNature.pdb
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.FAccountProfile.resources
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.FAdmin.resources
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.fLogin.resources
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.FMain.resources
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.Properties.Resources.resources
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.csproj.GenerateResource.Cache
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.exe
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.pdb
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.csprojAssemblyReference.cache
+D:\QuanLySonMoi\FonNature\FonNature\obj\Release\FonNature.csproj.CoreCompileInputs.cache
